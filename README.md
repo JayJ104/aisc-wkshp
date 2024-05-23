@@ -1,4 +1,4 @@
-# HackDavis x AISC Weekend Workshop!
+# HackDavis x AISC Weekend Workshop! - Demo Repo
 
 ### Table of Contents
 
